@@ -28,3 +28,12 @@ HarmonyOS 4.0
 | <img src="./09.jpeg" width="375" /> | <img src="./10.jpeg" width="375" /> |
 | <img src="./11.jpeg" width="375" /> | <img src="./12.jpeg" width="375" /> |
 
+## Star History
+
+<a href="https://www.star-history.com/#HarmonyOS-Next/interview-handbook-project&Date">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=HarmonyOS-Next/interview-handbook-project&type=Date&theme=dark" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=HarmonyOS-Next/interview-handbook-project&type=Date" />
+   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=HarmonyOS-Next/interview-handbook-project&type=Date" />
+ </picture>
+</a>
